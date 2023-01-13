@@ -10,3 +10,5 @@ This project covers usage of gRPC in a Spring Boot application
 
 ## Reference
 - [Mike's Spring Boot gRPC Starter](https://yidongnan.github.io/grpc-spring-boot-starter/en/server/getting-started.html)
+- [gRPC with Spring Boot](https://www.youtube.com/watch?v=2CWYorTWyGs)
+
